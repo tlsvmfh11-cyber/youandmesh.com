@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>https://youandmesh.com/</loc>
-        <lastmod>2025-12-20</lastmod>
+        <lastmod>2026-02-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://youandmesh.com/img/cover.png</image:loc>
+            <image:title>강남 유앤미 하이퍼블릭 메인 이미지</image:title>
+            <image:caption>강남 유앤미 하이퍼블릭 - 신사역 프리미엄 가라오케</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://youandmesh.com/img/1.webp</image:loc>
+            <image:title>강남 유앤미 소개 이미지</image:title>
+            <image:caption>강남 유앤미 하이퍼블릭 프리미엄 내부 인테리어</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://youandmesh.com/img/2.webp</image:loc>
+            <image:title>강남 유앤미 시스템 안내 이미지</image:title>
+            <image:caption>강남 유앤미 하이퍼블릭 시스템 운영 안내</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://youandmesh.com/img/3.webp</image:loc>
+            <image:title>강남 유앤미 라인업 이미지</image:title>
+            <image:caption>강남 유앤미 텐프로급 프리미엄 라인업</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://youandmesh.com/img/4.webp</image:loc>
+            <image:title>강남 유앤미 룸 시설 이미지</image:title>
+            <image:caption>강남 유앤미 프라이빗 프리미엄 룸 시설</image:caption>
+        </image:image>
+        <video:video>
+            <video:thumbnail_loc>https://youandmesh.com/img/cover.png</video:thumbnail_loc>
+            <video:title>강남 유앤미 하이퍼블릭 내부 분위기</video:title>
+            <video:description>강남 유앤미 하이퍼블릭의 고급스러운 내부 분위기를 영상으로 확인하세요. 신사역 티롤호텔에 위치한 프리미엄 공간입니다.</video:description>
+            <video:content_loc>https://youandmesh.com/img/cover.mp4</video:content_loc>
+        </video:video>
     </url>
-    <!-- Add more URLs here as your site grows -->
+    <url>
+        <loc>https://youandmesh.com/#sec1</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec2</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec3</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec4</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec5</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec6</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec7</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec8</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://youandmesh.com/#sec9</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
